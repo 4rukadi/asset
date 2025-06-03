@@ -210,7 +210,100 @@
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
 
-*$3p,domain=d3ward.github.io
-/pagead.js$domain=d3ward.github.io
-@@*$redirect-rule,domain=d3ward.github.io
-d3ward.github.io##.textads
+! --- Xiaomi
+||app.chat.xiaomi.net^
+||data.mistat.intl.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||sa.api.intl.miui.com^
+||tracking.india.miui.com^
+||tracking.intl.miui.com^
+||tracking.miui.com^
+||www.cdn.ad.xiaomi.com^
+
+! --- Huawei
+||metrics1.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics-dra.dt.hicloud.com^
+
+! --- OnePlus
+||analytics.oneplus.cn^
+||click.oneplus.com^
+
+! --- Samsung
+||ad.samsungadhub.com^
+||business.samsungusa.com^
+||config.samsungads.com^
+||samsungadhub.com^
+||analytics.samsungknox.com^
+||bigdata.ssp.samsung.com^
+
+! --- Apple
+||metrics.apple.com^
+||securemetrics.apple.com^
+||supportmetrics.apple.com^
+
+! --- Google Ads
+||ads.google.com^
+||googleadservices.com^
+
+! --- FastClick
+||cdn.fastclick.net^
+||fastclick.com^
+||fastclick.net^
+||media.fastclick.net^
+
+! --- Amazon
+||advertising-api-eu.amazon.com^
+||affiliationjs.s3.amazonaws.com^
+||amazonaax.com^
+||amazonclix.com^
+||assoc-amazon.com^
+
+! --- Hotjar
+||api-hotjar.com^
+||hotjar-analytics.com^
+||hotjar.com^
+||static.hotjar.com^
+
+! --- MouseFlow
+||a.mouseflow.com^
+
+! --- FreshMarketer
+||freshmarketer.com^
+
+! --- Facebook
+||ads.facebook.com^
+||analytics.facebook.com^
+
+! --- Twitter
+||ads-twitter.com^
+||advertising.twitter.com^
+
+! --- Pinterest
+||ads-dev.pinterest.com^
+||pinterest.com^
+||widgets.pinterest.com^
+
+! --- Reddit
+||ads.reddit.com^
+||d.reddit.com^
+||rereddit.com^
+
+! --- YouTube
+||youtube.cleverads.vn^
+
+! --- TikTok
+||analytics.tiktok.com^
+
+! --- Yahoo
+||ads.yap.yahoo.com^
+||global.adserver.yahoo.com^
+||yahoo.com^
+
+! --- Yandex
+||adsdk.yandex.ru^
+||analytics.mobile.yandex.net^
+||appmetrica.yandex.com^
+||yandexadexchange.net^
