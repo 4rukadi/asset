@@ -1,5 +1,5 @@
 ! Type : Stable
-! Updated On: 23/5/2025
+! Updated On: 6/3/2025
 ! Created by: HideSSH
 
 !============ Ads =============
@@ -9,12 +9,19 @@
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||affiliationjs.s3.amazonaws.com^
+||amazonaax.com^
+||amazonclix.com^
+||assoc-amazon.com^
 
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
+||ads.google.com^
+||googleadservices.com^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
@@ -51,6 +58,10 @@
 ||surveys.hotjar.com^
 ||careers.hotjar.com^
 ||events.hotjar.io^
+||api-hotjar.com^
+||hotjar-analytics.com^
+||hotjar.com^
+||static.hotjar.com^
 
 ! --- MouseFlow
 ||mouseflow.com^
@@ -60,6 +71,7 @@
 ||api.mouseflow.com^
 ||tools.mouseflow.com^
 ||cdn-test.mouseflow.com^
+||a.mouseflow.com^
 
 ! --- FreshWorks
 ||freshmarketer.com^
@@ -98,10 +110,14 @@
 ! --- Facebook
 ||pixel.facebook.com^
 ||an.facebook.com^
+||ads.facebook.com^
+||analytics.facebook.com^
 
 ! --- Twitter
 ||static.ads-twitter.com^
 ||ads-api.twitter.com^
+||ads-twitter.com^
+||advertising.twitter.com^
 
 ! --- LinkedIn
 ||ads.linkedin.com^
@@ -112,13 +128,20 @@
 ||log.pinterest.com^
 ||analytics.pinterest.com^
 ||trk.pinterest.com^
+||ads-dev.pinterest.com^
+||pinterest.com^
+||widgets.pinterest.com^
 
 ! --- Reddit
 ||events.reddit.com^
 ||events.redditmedia.com^
+||ads.reddit.com^
+||d.reddit.com^
+||rereddit.com^
 
 ! --- YouTube
 ||ads.youtube.com^
+||youtube.cleverads.vn^
 
 ! --- TikTok
 ||ads-api.tiktok.com^
@@ -128,6 +151,7 @@
 ||business-api.tiktok.com^
 ||ads.tiktok.com^
 ||log.byteoversea.com^
+||analytics.tiktok.com^
 
 
 !============ Mix =============
@@ -143,6 +167,9 @@
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
+||ads.yap.yahoo.com^
+||global.adserver.yahoo.com^
+||yahoo.com^
 
 ! --- Yandex
 ||extmaps-api.yandex.net^
@@ -151,6 +178,10 @@
 ||metrika.yandex.ru^
 ||offerwall.yandex.net^
 ||adfox.yandex.ru^
+||adsdk.yandex.ru^
+||analytics.mobile.yandex.net^
+||appmetrica.yandex.com^
+||yandexadexchange.net^
 
 ! --- Unity
 ||auction.unityads.unity3d.com^
@@ -175,6 +206,14 @@
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||tracking.rus.miui.com^
+||app.chat.xiaomi.net^
+||data.mistat.intl.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||sa.api.intl.miui.com^
+||tracking.india.miui.com^
+||tracking.intl.miui.com^
+||tracking.miui.com^
+||www.cdn.ad.xiaomi.com^
 
 ! --- Oppo
 ||adsfs.oppomobile.com^
@@ -189,10 +228,17 @@
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||logbak.hicloud.com^
+||metrics1.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||metrics-dra.dt.hicloud.com^
 
 ! --- OnePlus
 ||click.oneplus.cn^
 ||open.oneplus.net^
+||analytics.oneplus.cn^
+||click.oneplus.com^
 
 ! --- Samsung
 ||samsungads.com^
@@ -200,6 +246,12 @@
 ||nmetrics.samsung.com^
 ||samsung-com.112.2o7.net^
 ||analytics-api.samsunghealthcn.com^
+||ad.samsungadhub.com^
+||business.samsungusa.com^
+||config.samsungads.com^
+||samsungadhub.com^
+||analytics.samsungknox.com^
+||bigdata.ssp.samsung.com^
 
 ! --- Apple
 ||iadsdk.apple.com^
@@ -209,44 +261,9 @@
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
-
-! --- Xiaomi
-||app.chat.xiaomi.net^
-||data.mistat.intl.xiaomi.com^
-||globalapi.ad.xiaomi.com^
-||sa.api.intl.miui.com^
-||tracking.india.miui.com^
-||tracking.intl.miui.com^
-||tracking.miui.com^
-||www.cdn.ad.xiaomi.com^
-
-! --- Huawei
-||metrics1.data.hicloud.com^
-||metrics3.data.hicloud.com^
-||metrics4.data.hicloud.com^
-||metrics5.data.hicloud.com^
-||metrics-dra.dt.hicloud.com^
-
-! --- OnePlus
-||analytics.oneplus.cn^
-||click.oneplus.com^
-
-! --- Samsung
-||ad.samsungadhub.com^
-||business.samsungusa.com^
-||config.samsungads.com^
-||samsungadhub.com^
-||analytics.samsungknox.com^
-||bigdata.ssp.samsung.com^
-
-! --- Apple
 ||metrics.apple.com^
 ||securemetrics.apple.com^
 ||supportmetrics.apple.com^
-
-! --- Google Ads
-||ads.google.com^
-||googleadservices.com^
 
 ! --- FastClick
 ||cdn.fastclick.net^
@@ -254,56 +271,5 @@
 ||fastclick.net^
 ||media.fastclick.net^
 
-! --- Amazon
-||advertising-api-eu.amazon.com^
-||affiliationjs.s3.amazonaws.com^
-||amazonaax.com^
-||amazonclix.com^
-||assoc-amazon.com^
-
-! --- Hotjar
-||api-hotjar.com^
-||hotjar-analytics.com^
-||hotjar.com^
-||static.hotjar.com^
-
-! --- MouseFlow
-||a.mouseflow.com^
-
 ! --- FreshMarketer
 ||freshmarketer.com^
-
-! --- Facebook
-||ads.facebook.com^
-||analytics.facebook.com^
-
-! --- Twitter
-||ads-twitter.com^
-||advertising.twitter.com^
-
-! --- Pinterest
-||ads-dev.pinterest.com^
-||pinterest.com^
-||widgets.pinterest.com^
-
-! --- Reddit
-||ads.reddit.com^
-||d.reddit.com^
-||rereddit.com^
-
-! --- YouTube
-||youtube.cleverads.vn^
-
-! --- TikTok
-||analytics.tiktok.com^
-
-! --- Yahoo
-||ads.yap.yahoo.com^
-||global.adserver.yahoo.com^
-||yahoo.com^
-
-! --- Yandex
-||adsdk.yandex.ru^
-||analytics.mobile.yandex.net^
-||appmetrica.yandex.com^
-||yandexadexchange.net^
