@@ -899,7 +899,7 @@
             "click",
             function () {
               x(
-                "https://raw.githubusercontent.com/Turtlecute33/toolz/master/src/d3host.adblock"
+                "https://raw.githubusercontent.com/4rukadi/asset/refs/heads/main/adblock-host"
               );
             }
           );
